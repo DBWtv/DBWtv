@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DBWtv
 - 👀 I’m interested in Python, Django, JS, PyScript, Linux and more other stuff
-- 🌱 I’m currently learning Django, PyScript, JS, SQL
-- 💞️ I’m looking to collaborate on Django web projects
+- 🌱 I’m currently learning Django, PyScript, JS, SQL, Docker
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me dima.bwc@gmial.com
 
 <!---
