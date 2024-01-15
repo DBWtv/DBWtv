@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DBWtv
-- 👀 I’m interested in Python, Cpp, GO, Linux and more other stuff
-- 🌱 I’m currently learning Python, SQL, Docker, GO, Cpp
+- 👀 I’m interested in Python, Linux and more other stuff
+- 🌱 I’m currently learning Python, SQL, Docker
 - 📫 How to reach me dima.bwc@gmail.com
 
 <!---
