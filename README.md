@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DBWtv
-- 👀 I’m interested in Python, Linux and more other stuff
-- 🌱 I’m currently learning Python, SQL, Docker
-- 📫 How to reach me dima.bwc@gmail.com
+- 👋 Hi, I’m Dmitry
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently working at Sber
+- 📫 How to reach me dima.bwc@gmail.com or telegram t.me/dbwtv_i
 
 <!---
 DBWtv/DBWtv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
